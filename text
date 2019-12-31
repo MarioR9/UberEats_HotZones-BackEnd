@@ -1,0 +1,11 @@
+fetch('http://localhost:3000/location',{
+      method: "POST",
+      headers: {
+          'Accept': 'application/json',
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+         title: "Title of my post"
+          })
+        }).then(resp=>resp.json())
+          .then(data=>{debugger})
