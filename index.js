@@ -8,7 +8,7 @@ app.post('/location', (request, response)=>{
     response.header("Access-Control-Allow-Origin", "*");
     response.json({
         status: "success",
-        test: "123"
+        response: "here will have response from search"
     })
     
 })
