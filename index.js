@@ -108,7 +108,7 @@ app.post('/api', (req, res)=>{
           }); 
           await page.waitFor(2000);
           //sectionResultCollection[0].Divs - 1( total amount of divs containing restaurants)
-        if(i == 5){
+        if(i == 1){
           i = 0
           await page.evaluate(() => { 
             document.getElementsByClassName("n7lv7yjyC35__button-next-icon")[0].click(); 
