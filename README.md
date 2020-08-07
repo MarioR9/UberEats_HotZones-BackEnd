@@ -1,7 +1,6 @@
-# UberEats_HotZones-BackEnd
 [![Generic badge](https://img.shields.io/badge/Code-React-blue.svg)](https://shields.io/)&nbsp; [![Generic badge](https://img.shields.io/badge/Code-RubyOnRails-red.svg)](https://shields.io/)&nbsp; [![Generic badge](https://img.shields.io/badge/Code-JavaScript-yellow.svg)](https://shields.io/)&nbsp; ![GitHub repo size](https://img.shields.io/github/repo-size/MarioR9/UberEats_HotZones-BackEnd?color=g&label=Repo%20Size)
 
-## UberEats_HotZones
+## UberEats_HotZonesBackEnd
 
 ## Table of contents
 * [General info](#general-info)
