@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/Code-ReactNative-blue.svg)](https://shields.io/)&nbsp; [![Generic badge](https://img.shields.io/badge/Code-Express-red.svg)](https://shields.io/)&nbsp; [![Generic badge](https://img.shields.io/badge/Code-JavaScript-yellow.svg)](https://shields.io/)&nbsp; ![GitHub repo size](https://img.shields.io/github/repo-size/MarioR9/UberEats_HotZones-BackEnd?color=g&label=Repo%20Size)
+[![Generic badge](https://img.shields.io/badge/Code-ReactNative-blue.svg)](https://shields.io/)&nbsp; [![Generic badge](https://img.shields.io/badge/Code-Express-red.svg)](https://shields.io/)&nbsp; [![Generic badge](https://img.shields.io/badge/Code-JavaScript-yellow.svg)](https://shields.io/)&nbsp; ![GitHub repo size](https://img.shields.io/github/repo-size/MarioR9/UberEats_HotZones-BackEnd?color=g&label=Repo%20Size)&nbsp; ![GitHub last commit](https://img.shields.io/github/last-commit/MarioR9/UberEats_HotZones-BackEnd)
 
 ## UberEats_HotZonesBackEnd
 
