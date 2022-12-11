@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MarioR9/UberEats_HotZones-BackEnd#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
